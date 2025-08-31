@@ -7,6 +7,7 @@ A minimal starter template for React applications with TypeScript and Vite.
 - React 19
 - TypeScript
 - Vite
+- Tailwind CSS
 - SCSS
 - Minimal setup
 
@@ -32,7 +33,7 @@ npm run preview
 src/
 ├── App.tsx          # Main App component
 ├── main.tsx         # Entry point
-├── index.scss       # Styles
+├── index.scss       # Styles with Tailwind
 └── vite-env.d.ts    # Vite types
 ```
 
